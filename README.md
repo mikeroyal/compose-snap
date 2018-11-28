@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/48986446-e839e080-f0c9-11e8-9c39-39efb20f3e99.png">
+  <img src="https://user-images.githubusercontent.com/45159366/49137724-225dda80-f2a2-11e8-8926-30515b7ee64e.png">
   <br />
-  FaaS
+  Compose
 </h1>
 
-<p align="center"><b>This is the snap for OpenFaaS, Serverless Functions Made Simple for Docker & Kubernetes . It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for Compose, a tool for defining and running multi-container Docker applications. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -21,7 +21,7 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install faas
+    sudo snap install compose
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
